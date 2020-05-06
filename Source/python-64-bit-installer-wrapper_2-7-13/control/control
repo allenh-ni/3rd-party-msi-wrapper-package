@@ -1,0 +1,11 @@
+Package: python-64-bit-installer-wrapper
+Version: 2.7.13.0
+Section : Programming Environments
+Architecture: windows_x64
+Maintainer: Python Software Foundation <>
+Description: This is a wrapper package that installs Python 2.7.13.
+Homepage: https://www.python.org
+XB-Plugin: wininst
+XB-UserVisible: yes
+XB-StoreProduct: yes
+XB-DisplayName: Python (64-bit) wrapper package
