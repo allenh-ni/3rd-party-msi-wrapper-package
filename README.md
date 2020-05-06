@@ -12,3 +12,6 @@ If the non-NI installer (e.g. non-NI drivers) contains .msi files, you can follo
 The "..\Source\3rd party installer" folder contains the directory structure for a WinInst package.  This example uses the Python 2.7.13 MSI installer file.  This example did not use an instructions file because there is only a single .msi file for this installer.
 
 The "..\Source\Packages" folder contains the built package from running the `nipkg pack` command (step 2 above).
+
+## Additional Resources
+Refer to the [Build a package that installs a 3rd party (non-NI) installer](https://forums.ni.com/t5/NI-Package-Management/Build-a-package-that-installs-a-3rd-party-non-NI-installer/ta-p/3887998) document on the NI Package Management Portal. Creating a WinInst Package is Option #2 on that document.
